@@ -10,6 +10,8 @@ from tkinter import messagebox
 
 from functools import partial
 
+print("v1")
+
 win = tk.Tk()
 count=1
 text2=[]
